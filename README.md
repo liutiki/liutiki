@@ -1,15 +1,16 @@
-<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Julia</a> 
+<h1 align="center">Hi there, I'm <a href="https://julia-khakimova-portfolio.glitch.me/"target="_blank">Julia</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">A Frontend Developer from Russia</h3>
 
+<h3 align="center"> I’m currently learning REACT and looking foward to work using it</h3>
+
+<h3 align="center"> You may find my portfolio on Julia (just link on it)</h3>
 
 
 
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
-<!--
-**liutiki/liutiki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
