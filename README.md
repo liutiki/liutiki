@@ -3,7 +3,7 @@
 <h3 align="center">Cпециализируюсь на создании веб-приложений с использованием React.</h3>
 <h3 align="center"> My <a href="https://khakimovaportfolio.netlify.app/"target="_blank">Portfolio</a> </h3>
 
-<h3 align="center"> </h3>
+<h3 align="center">📫 Связаться со мной: @JuliaKhakimova (telegram) </h3>
 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 	![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
