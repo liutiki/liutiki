@@ -4,7 +4,7 @@
 
 <h3 align="center"> I’m currently making projects on REACT</h3>
 
-<h3 align="center"> My portfolio <a href="https://khakimovaportfolio.netlify.app/"target="_blank"></h3>
+<h3 align="center"> My portfolio <a href="https://khakimovaportfolio.netlify.app/"target="_blank">Portfolio</a> </h3>
 
 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
