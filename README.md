@@ -1,7 +1,7 @@
 <h1 align="center">Привет <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Меня зовут Юля и я фронтенд разработчик.</h3>
-<h3 align="center">Cпециализируюсь на создании веб-приложений с использованием React.</h3>
-<h3 align="center"> My <a href="https://khakimovaportfolio.netlify.app/"target="_blank">Portfolio</a> </h3>
+<h3 align="center">Cпециализируюсь на создании веб-приложений на React.</h3>
+<h3 align="center"> 🚀 Мое портфолио <a href="https://khakimovaportfolio.netlify.app/"target="_blank">Portfolio</a> </h3>
 
 <h3 align="center">📫 Связаться со мной: @JuliaKhakimova (telegram) </h3>
 
