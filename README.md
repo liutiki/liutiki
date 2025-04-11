@@ -12,8 +12,8 @@
    	![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 <div flex-start>
-<h3 align="center">My projects:  <a href="https://kdsc.ru/"target="_blank">"Web app for shipping company"</a></h3>
-<h3 align="center">              <a href="https://viva-diva-grooming.glitch.me"target="_blank">"Web site"</a></h3>
+<h3 align="center">My projects:  <a href="https://kdsc.ru/"target="_blank">"Web site for Shipping Company"</a></h3>
+<h3 align="center">              <a href="https://viva-diva-grooming.glitch.me"target="_blank">"Web site for Dog Grooming-Salon"</a></h3>
 </div>
 
 
