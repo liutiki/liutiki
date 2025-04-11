@@ -12,7 +12,7 @@
    	![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 
-<h3 align="center">My projects: <a href="https://kdsc.ru" target="_blank"></a></h3>
+<h3 align="center">My projects:  <a href="https://kdsc.ru/"target="_blank">Web app for shipping company</a></h3>
 
 
 
