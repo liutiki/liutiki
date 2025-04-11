@@ -12,7 +12,7 @@
    	![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 
-<h3 align="center">My projects:  <a href="https://kdsc.ru/"target="_blank">"Web app for shipping company"</a></h3>
+<h3 align="flex-start">My projects:  <a href="https://kdsc.ru/"target="_blank">"Web app for shipping company"</a></h3>
 <h3 align="flex-start">              <a href="https://viva-diva-grooming.glitch.me"target="_blank">"My very first and cutest web site"</a></h3>
 
 
