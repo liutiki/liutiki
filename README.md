@@ -16,6 +16,20 @@
 ![Styled Components](https://img.shields.io/badge/styled--components-%23DB7093.svg?style=for-the-badge&logo=styled-components&logoColor=white)
 ![PrimeReact](https://img.shields.io/badge/primereact-%23FF2D55.svg?style=for-the-badge&logo=primereact&logoColor=white)
 
+
+
+<div style="display: flex; flex-direction: column; align-items: center;">
+    <h3>My projects:</h3>
+    <h3>
+        <a href="https://kdsc.ru/" target="_blank">"Web site for Shipping Company"</a>
+    </h3>
+    <h3>
+        <a href="https://viva-diva-grooming.glitch.me" target="_blank">"Web site for Dog Grooming-Salon"</a>
+    </h3>
+</div>
+
+
+
 <div flex-start>
 <h3 align="center">My projects:  <a href="https://kdsc.ru/"target="_blank">"Web site for Shipping Company"</a></h3>
 <h3 align="center">              <a href="https://viva-diva-grooming.glitch.me"target="_blank">"Web site for Dog Grooming-Salon"</a></h3>
