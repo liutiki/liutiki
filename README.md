@@ -13,6 +13,8 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Styled Components](https://img.shields.io/badge/styled--components-%23DB7093.svg?style=for-the-badge&logo=styled-components&logoColor=white)
+![PrimeReact](https://img.shields.io/badge/primereact-%23FF2D55.svg?style=for-the-badge&logo=primereact&logoColor=white)
 
 <div flex-start>
 <h3 align="center">My projects:  <a href="https://kdsc.ru/"target="_blank">"Web site for Shipping Company"</a></h3>
