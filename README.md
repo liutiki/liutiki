@@ -28,6 +28,15 @@
     </h3>
 </div>
 
+<div style="text-align: center;">
+    <h3>My projects:</h3>
+    <h3>
+        <a href="https://kdsc.ru/" target="_blank">"Web site for Shipping Company"</a>
+    </h3>
+    <h3>
+        <a href="https://viva-diva-grooming.glitch.me" target="_blank">"Web site for Dog Grooming-Salon"</a>
+    </h3>
+</div>
 
 
 <div flex-start>
