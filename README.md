@@ -26,6 +26,9 @@
     <h3>
         <a href="https://viva-diva-grooming.glitch.me" target="_blank">"Web site for Dog Grooming-Salon"</a>
     </h3>
+    <h3>
+        <a href="" target="_blank">"Web site for Dog Grooming-Salon"</a>
+    </h3>
 </div>
 
 
