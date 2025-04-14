@@ -27,7 +27,7 @@
         <a href="https://viva-diva-grooming.glitch.me" target="_blank">"Web site for Dog Grooming-Salon"</a>
     </h3>
     <h3>
-         <a href="https://spiffy-dodol-2bfe05.netlify.app/" target="_blank">"Web site for Dog Grooming-Salon"</a>
+         <a href="https://spiffy-dodol-2bfe05.netlify.app/" target="_blank">"Web app "Find a recepi" (API)</a>
     </h3>
 </div>
 
