@@ -24,7 +24,7 @@
         <a href="https://kdsc.ru/" target="_blank">"Web site for Shipping Company"</a>
     </h3>
     <h3>
-        <a href="https://viva-diva-grooming.glitch.me" target="_blank">"Web site for Dog Grooming-Salon"</a>
+        <a href="https://internship-registration.netlify.app/">"State-Mashine in use. Internship registration"</a>
     </h3>
     <h3>
          <a href="https://spiffy-dodol-2bfe05.netlify.app/" target="_blank">"Web app "Find a recepi" (API)</a>
