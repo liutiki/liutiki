@@ -22,15 +22,15 @@
 
 <div style="display: flex; flex-direction: column; align-items: center;">
     <h3>My projects:</h3>
-    <h3>
+    <h4>
         <a href="https://kdsc.ru/" target="_blank">"Web site for Shipping Company"</a>
-    </h3>
-    <h3>
+    </h4>
+    <h4>
         <a href="https://internship-registration.netlify.app/">"State-Mashine in use. Internship registration"</a>
-    </h3>
-    <h3>
+    </h4>
+    <h4>
          <a href="https://spiffy-dodol-2bfe05.netlify.app/" target="_blank">"Web app "Find a recepi" (API)</a>
-    </h3>
+    </h4>
 </div>
 
 
