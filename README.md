@@ -4,6 +4,7 @@
 <h3 align="center">My <a href="https://khakimovaportfolio.netlify.app/"target="_blank">Portfolio</a> </h3>
 
 <h3 align="center">Telegram: <a href="https://t.me/JuliaKhakimova" target="_blank">@JuliaKhakimova</a></h3>
+<h1 align="center">Abilities and Experience</h1>
 
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
