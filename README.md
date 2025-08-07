@@ -20,7 +20,7 @@
 ![PrimeReact](https://img.shields.io/badge/primereact-%23FF2D55.svg?style=for-the-badge&logo=primereact&logoColor=white)
 
 
-<div style="display: flex; flex-direction: column; align-items: center;">
+    <div style="display: flex; flex-direction: column; align-items: center;">
     <h3>My projects:</h3>
     <h4>
         <a href="https://kdsc.ru/" target="_blank">"Web site for Shipping Company"</a>
@@ -31,7 +31,7 @@
     <h4>
          <a href="https://spiffy-dodol-2bfe05.netlify.app/" target="_blank">"Web app "Find a recepi" (API)</a>
     </h4>
-</div>
+    </div>
 
 
 
