@@ -27,7 +27,7 @@
     <a href="https://kdsc.ru/" target="_blank">Web site for Shipping Company</a>
 </h4>
 <h4>
-    <a href="https://internship-registration.netlify.app/">State-Machine in use. Internship registration Описание (React (на базе Vite), поддержка модульных стилей (SCSS или CSS Modules).Компонентная архитектура, для шагов использован state-machine))</a>
+    <a href="https://internship-registration.netlify.app/">State-Machine in use. Internship registration </a>
  </h4>
 <h4>
     <a href="https://spiffy-dodol-2bfe05.netlify.app/" target="_blank">Web app "Find a recipe" (API)</a>
