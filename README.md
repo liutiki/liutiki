@@ -1,5 +1,5 @@
 <h1 align="center">Hi there <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">I am Julia Khakimova. Frontend developer Russia. Kaliningrad </h3>
+<h3 align="center">I am Julia Khakimova. Frontend developer from Russia. Kaliningrad </h3>
 <h3 align="center">I work on React+Vite</h3>
 <h3 align="center">Take a look my <a href="https://khakimovaportfolio.netlify.app/"target="_blank">Portfolio</a> </h3>
 
