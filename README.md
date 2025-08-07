@@ -21,7 +21,7 @@
 
 
 
-    <div style="display: flex; ">
+    <div style="display: flex">
     <h3>My projects:</h3>
     <h4>
         <a href="https://kdsc.ru/" target="_blank">"Web site for Shipping Company"</a>
