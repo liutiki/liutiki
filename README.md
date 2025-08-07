@@ -28,6 +28,7 @@
 </h4>
 <h4>
     <a href="https://internship-registration.netlify.app/">State-Machine in use. Internship registration</a>
+  <h3>React (на базе Vite), поддержка модульных стилей (SCSS или CSS Modules).Компонентная архитектура, для шагов использован state-machine)</h3>
 </h4>
 <h4>
     <a href="https://spiffy-dodol-2bfe05.netlify.app/" target="_blank">Web app "Find a recipe" (API)</a>
